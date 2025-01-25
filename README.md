@@ -1,1 +1,1 @@
-# git_tut_mergeNconflict_prac
+# UPDATE story by developer B in git_tut_mergeNconflict_prac
